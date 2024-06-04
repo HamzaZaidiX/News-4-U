@@ -1,3 +1,11 @@
+# News 4 U Website 📰📺
+
+News 4 U is the Fastest News Platform which gives to News when you want inspired to build in React JS, Next JS, Typescript and also using NEWS API to get latest news on my website! 📰😄📑
+
+### Note: News  API free plan is used so please when you're arriving after the plan is deactivated then the News no gonna show bcoz the News Api only gives 1000 requests which is already used
+
+# If you want to read te NEWS Click Here ➡️
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
